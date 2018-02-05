@@ -7,4 +7,4 @@ Pushing commits the result worked even thought that generated the following mess
 	remote:   https://github.com/hubgcm/new-rep-name.git
 
 
-
+Now for the fetch part ...
